@@ -1,8 +1,11 @@
+import {Home} from '../src/components/pages/Home/Home.jsx';
+import {Greet} from '../src/components/Greet';
+
 export const App = () =>{
   return(
     <>
-      <h1>luis cagao</h1>
-      <h2>luis cagao bye</h2>
+     <Home/>
+   
 
     </>
   )
